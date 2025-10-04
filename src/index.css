@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Epunda+Slab:wght@400;600;700&display=swap');
+
+.heading-slab {
+  font-family: 'Epunda Slab', serif;
+}
+
+.heading-script {
+  font-family: 'Dancing Script', cursive;
+}
+
